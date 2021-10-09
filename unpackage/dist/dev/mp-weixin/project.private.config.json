@@ -1,0 +1,192 @@
+{
+  "setting": {},
+  "condition": {
+    "plugin": {
+      "list": []
+    },
+    "game": {
+      "list": []
+    },
+    "gamePlugin": {
+      "list": []
+    },
+    "miniprogram": {
+      "list": [
+        {
+          "name": "pages/business/business",
+          "pathName": "pages/business/business",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/mine/mine",
+          "pathName": "pages/mine/mine",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/youjikehu/youjikehu",
+          "pathName": "pages/youjikehu/youjikehu",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/jianbanxiance/jianbanxiance",
+          "pathName": "pages/jianbanxiance/jianbanxiance",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/jianbanxiance/jianbanxiance",
+          "pathName": "pages/jianbanxiance/jianbanxiance",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "compotent/select/select",
+          "pathName": "compotent/select/select",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/jianbanxiance/jianbanxiance",
+          "pathName": "pages/jianbanxiance/jianbanxiance",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/mine_fenxiao/mine_fenxiao",
+          "pathName": "pages/mine_fenxiao/mine_fenxiao",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/businessmesage/businessmesage",
+          "pathName": "pages/businessmesage/businessmesage",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/login/login",
+          "pathName": "pages/login/login",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/mine/mine",
+          "pathName": "pages/mine/mine",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/businessmesage/tupian/tupian",
+          "pathName": "pages/businessmesage/tupian/tupian",
+          "query": "id=4",
+          "scene": null
+        },
+        {
+          "name": "pages/test/test",
+          "pathName": "pages/test/test",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/mine/mine",
+          "pathName": "pages/mine/mine",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/businessmesage/tupian/tupian",
+          "pathName": "pages/businessmesage/tupian/tupian",
+          "query": "id=4",
+          "scene": null
+        },
+        {
+          "name": "pages/businessmesage/tupian/tupian",
+          "pathName": "pages/businessmesage/tupian/tupian",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/businessmesage/businessmesage",
+          "pathName": "pages/businessmesage/businessmesage",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/mine/mine",
+          "pathName": "pages/mine/mine",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/jianbanxiance/jianbanxiance",
+          "pathName": "pages/jianbanxiance/jianbanxiance",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/mine/mine",
+          "pathName": "pages/mine/mine",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/mine/mine",
+          "pathName": "pages/mine/mine",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/mine/mine",
+          "pathName": "pages/mine/mine",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/mine/mine",
+          "pathName": "pages/mine/mine",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/mine_fenxiao/shen/shen",
+          "pathName": "pages/mine_fenxiao/shen/shen",
+          "query": "id=7",
+          "scene": null
+        },
+        {
+          "name": "pages/mine/mine",
+          "pathName": "pages/mine/mine",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/mine_fenxiao/mine_fenxiao",
+          "pathName": "pages/mine_fenxiao/mine_fenxiao",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/mine_fenxiao/shen/shen",
+          "pathName": "pages/mine_fenxiao/shen/shen",
+          "query": "id=7",
+          "scene": null
+        },
+        {
+          "name": "pages/mine_fenxiao/mine_fenxiao",
+          "pathName": "pages/mine_fenxiao/mine_fenxiao",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/mine/mine",
+          "pathName": "pages/mine/mine",
+          "query": "",
+          "scene": null
+        }
+      ]
+    }
+  }
+}

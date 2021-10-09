@@ -1,0 +1,1 @@
+<view class="data-v-5e668ca9"><view class="header data-v-5e668ca9"><block wx:for="{{title}}" wx:for-item="item" wx:for-index="i" wx:key="i"><text class="data-v-5e668ca9">{{item}}</text></block></view><view class="main data-v-5e668ca9"><text class="data-v-5e668ca9">1</text></view></view>

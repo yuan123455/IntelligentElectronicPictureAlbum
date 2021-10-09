@@ -1,0 +1,1 @@
+<view class="data-v-16a86e31"><textarea placeholder="请填写介绍内容" data-event-opts="{{[['input',[['__set_model',['','t','$event',[]]]]]]}}" value="{{t}}" bindinput="__e" class="data-v-16a86e31"></textarea><button type="default" data-event-opts="{{[['tap',[['save',['$event']]]]]}}" bindtap="__e" class="data-v-16a86e31">保存修改</button></view>

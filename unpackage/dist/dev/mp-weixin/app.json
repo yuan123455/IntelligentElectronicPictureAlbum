@@ -1,0 +1,70 @@
+{
+  "pages": [
+    "pages/store/store",
+    "pages/business/business",
+    "pages/mine/mine",
+    "pages/createbusiness/createbusiness",
+    "pages/huace/huace",
+    "pages/businessmesage/businessmesage",
+    "pages/gongshi/gongshi",
+    "pages/youji/youji",
+    "pages/youjikehu/youjikehu",
+    "pages/liulan/liulan",
+    "pages/shengqing/shengqing",
+    "pages/businessmesage/xiugai/xiugai",
+    "pages/businessmesage/jieshao/jieshao",
+    "pages/businessmesage/tupian/tupian",
+    "pages/fenxiao/fenxiao",
+    "pages/price/price",
+    "pages/jianbanxiance/jianbanxiance",
+    "compotent/select/select",
+    "pages/detail/detail",
+    "pages/mine_fenxiao/mine_fenxiao",
+    "pages/login/login",
+    "pages/businessmesage/haoyou/haoyou",
+    "pages/businessmesage/xiaoshou/xiaoshou",
+    "pages/test/test",
+    "pages/mine_fenxiao/shen/shen",
+    "pages/mine_list/mine_list"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "selectedColor": "#BC4040",
+    "backgroundColor": "#FFFFFF",
+    "borderStyle": "white",
+    "color": "#999999",
+    "list": [
+      {
+        "pagePath": "pages/store/store",
+        "text": "商城",
+        "iconPath": "./static/store.png",
+        "selectedIconPath": "./static/store_select.png"
+      },
+      {
+        "pagePath": "pages/business/business",
+        "text": "名片",
+        "iconPath": "./static/mingpian.png",
+        "selectedIconPath": "./static/mingpian_select.png"
+      },
+      {
+        "pagePath": "pages/mine/mine",
+        "text": "我的",
+        "iconPath": "./static/mine.png",
+        "selectedIconPath": "./static/mine_select.png"
+      }
+    ]
+  },
+  "permission": {
+    "scope.userLocation": {
+      "desc": "获取用户位置，推选最近店铺"
+    }
+  },
+  "usingComponents": {},
+  "sitemapLocation": "sitemap.json"
+}

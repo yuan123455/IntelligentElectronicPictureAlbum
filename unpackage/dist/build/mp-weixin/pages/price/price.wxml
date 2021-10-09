@@ -1,0 +1,1 @@
+<view class="data-v-73e19311"><input type="number" placeholder="请输入手机号" data-event-opts="{{[['input',[['__set_model',['','phone','$event',[]]]]]]}}" value="{{phone}}" bindinput="__e" class="data-v-73e19311"/><button class="data-v-73e19311">确定</button></view>

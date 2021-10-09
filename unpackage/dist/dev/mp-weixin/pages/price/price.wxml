@@ -1,0 +1,1 @@
+<view class="data-v-0e83139a"><input type="number" placeholder="请输入手机号" data-event-opts="{{[['blur',[['ph',['$event']]]],['input',[['__set_model',['','phone','$event',[]]]]]]}}" value="{{phone}}" bindblur="__e" bindinput="__e" class="data-v-0e83139a"/><button data-event-opts="{{[['tap',[['map',['$event']]]]]}}" bindtap="__e" class="data-v-0e83139a">确定</button></view>
